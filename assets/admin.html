@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portfolio Messages - Admin</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background: #0a192f;
+        color: #e6f1ff;
+      }
+      .message {
+        border: 1px solid #00e5ff;
+        padding: 15px;
+        margin: 10px 0;
+        border-radius: 8px;
+        background: rgba(255, 255, 255, 0.05);
+      }
+      h1 {
+        color: #00e5ff;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>📨 Portfolio Messages</h1>
+    <div id="messages"></div>
+
+    <script>
+      const messages = JSON.parse(
+        localStorage.getItem("portfolioMessages") || "[]"
+      );
+      const messagesContainer = document.getElementById("messages");
+
+      if (messages.length === 0) {
+        messagesContainer.innerHTML = "<p>No messages yet.</p>";
+      } else {
+        messages.forEach((msg, index) => {
+          const messageDiv = document.createElement("div");
+          messageDiv.className = "message";
+          messageDiv.innerHTML = `
+                    <h3>📋 ${msg.subject}</h3>
+                    <p><strong>👤 From:</strong> ${msg.name} (${msg.email})</p>
+                    <p><strong>⏰ Time:</strong> ${msg.timestamp}</p>
+                    <p><strong>💬 Message:</strong> ${msg.message}</p>
+                `;
+          messagesContainer.appendChild(messageDiv);
+        });
+      }
+    </script>
+  </body>
+</html>

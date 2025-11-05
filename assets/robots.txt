@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luthandocandlovu.github.io/MY-PORTFOLIO/sitemap.xml
