@@ -9,9 +9,9 @@
 
 <!-- Contact Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luthando-candlovu)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
 [![GitHub](https://img.shields.io/badge/⚡_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luthando.candlovu30@gmail.com)
 
 <br />
 
