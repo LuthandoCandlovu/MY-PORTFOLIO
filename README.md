@@ -5,9 +5,9 @@
 ![Portfolio Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=AI+Security+Developer+%26+Researcher)
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2D3748?style=for-the-badge)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/luthando-candlovu)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
 [![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge)](https://github.com/LuthandoCandlovu)
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:your-email@domain.com)
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:luthando.candlovu30@gmail.com)
 
 *"Securing the Future with Intelligent Systems"*
 
