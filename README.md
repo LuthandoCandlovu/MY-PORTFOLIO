@@ -1,0 +1,135 @@
+# 🚀 Luthando Candlovu | AI Security Developer & Researcher
+
+<div align="center">
+
+![Portfolio Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=AI+Security+Developer+%26+Researcher)
+
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2D3748?style=for-the-badge)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/luthando-candlovu)
+[![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge)](https://github.com/LuthandoCandlovu)
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:your-email@domain.com)
+
+*"Securing the Future with Intelligent Systems"*
+
+</div>
+
+## 👨‍💻 About Me
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[AI Security Research] --> B[Machine Learning]
+    A --> C[Cybersecurity]
+    B --> D[Neural Networks]
+    C --> E[Threat Detection]
+    D --> F[AI Defense Systems]
+    E --> F
+    F --> G[Secure AI Solutions]
+</div>
+I'm a passionate Computer Science Honours Student at the University of Fort Hare, specializing in the intersection of Artificial Intelligence and Cybersecurity. My research focuses on developing intelligent security systems that can adapt and respond to emerging cyber threats in real-time.
+
+🎯 Core Expertise
+🔐 AI-Powered Cybersecurity
+
+🤖 Machine Learning & Neural Networks
+
+🛡️ Threat Intelligence & Analysis
+
+💻 Full-Stack Development
+
+🐍 Python & TensorFlow Development
+
+🛠️ Technical Stack
+🔬 Research & Development
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+🌐 Web Technologies
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+
+🛡️ Security Tools
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge
+https://img.shields.io/badge/Burp_Suite-FF6B6B?style=for-the-badge
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
+
+📊 GitHub Statistics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=LuthandoCandlovu&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=compact&theme=radical&hide_border=true
+
+https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=radical&hide_border=true
+
+</div>
+🎨 Portfolio Architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🔥 Featured Projects
+🛡️ AI-Powered Threat Detection System
+Real-time neural network for identifying zero-day vulnerabilities
+
+https://img.shields.io/badge/Python-100%2525-blue
+https://img.shields.io/badge/TensorFlow-ML-orange
+https://img.shields.io/badge/Accuracy-98.2%2525-brightgreen
+
+🔐 Secure Authentication Framework
+Multi-factor authentication using behavioral biometrics
+
+https://img.shields.io/badge/React-Frontend-61DAFB
+https://img.shields.io/badge/Node.js-Backend-339933
+https://img.shields.io/badge/Security-A+-success
+
+🤖 Intelligent Malware Analysis
+Machine learning system for automated malware classification
+
+https://img.shields.io/badge/Python-Scikit--learn-3776AB
+https://img.shields.io/badge/Performance-95.7%2525-yellow
+
+📈 Research & Publications
+📄 Publication	🏢 Conference	📅 Year	🔗 Link
+AI-Driven Cyber Threat Intelligence	IEEE Security	2024	Read
+Neural Networks in Intrusion Detection	ACM Computing	2023	Read
+Machine Learning for Malware Analysis	Springer AI	2023	Read
+🎯 Currently Working On
+🔬 Advanced Persistent Threat Detection using Deep Learning
+
+🌐 Blockchain-based Security Protocols for IoT networks
+
+🤖 Autonomous Security Response Systems with Reinforcement Learning
+
+📫 Let's Connect!
+<div align="center">
+https://img.shields.io/badge/%F0%9F%8C%90_Visit_My_Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/b/%F0%9F%90%A6_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%A7_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+</div>
+<div align="center">
+⚡ "Innovating at the intersection of AI and Security to build a safer digital future."
+https://komarev.com/ghpvc/?username=LuthandoCandlovu&color=blue&style=flat-square
+
+⭐ Star this repo if you find my work interesting!
+
+</div> ```
