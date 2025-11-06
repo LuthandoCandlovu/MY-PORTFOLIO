@@ -2,12 +2,13 @@
 
 <div align="center">
 
-![Portfolio Banner](https://via.placeholder.com/1200x400/2D3748/FFFFFF?text=AI+Security+Developer+%26+Researcher)
+![Portfolio Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=1200&h=400&fit=crop&auto=format)
+*AI Security & Cybersecurity Research*
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-2D3748?style=for-the-badge)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/luthando-candlovu)
-[![GitHub](https://img.shields.io/badge/🐙-GitHub-181717?style=for-the-badge)](https://github.com/LuthandoCandlovu)
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge)](mailto:your-email@domain.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luthando-candlovu)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
 
 *"Securing the Future with Intelligent Systems"*
 
@@ -53,7 +54,8 @@ I'm a passionate **Computer Science Honours Student** at the **University of For
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoCandlovu&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuthandoCandlovu&theme=radical&hide_border=true)
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LuthandoCandlovu&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -98,8 +100,9 @@ I'm a passionate **Computer Science Honours Student** at the **University of For
 <div align="center">
 
 [![Website](https://img.shields.io/badge/🌐_Visit_My_Portfolio-2D3748?style=for-the-badge&logo=google-chrome&logoColor=white)](https://luthandocandlovu.github.io/MY-PORTFOLIO/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthando-candlovu-b59110324/)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luthando.candlovu30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luthando-candlovu)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuthandoCandlovu)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
 
 </div>
 
@@ -109,7 +112,10 @@ I'm a passionate **Computer Science Honours Student** at the **University of For
 
 ### ⚡ **"Innovating at the intersection of AI and Security to build a safer digital future."**
 
-![Visitors](https://komarev.com/ghpvc/?username=LuthandoCandlovu&color=blue&style=flat-square)
+<!-- Visitor Counter -->
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/LuthandoCandlovu/count.svg" />
+</p>
 
 *⭐ Star this repo if you find my work interesting!*
 
