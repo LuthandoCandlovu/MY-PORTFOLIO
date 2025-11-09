@@ -1,4 +1,4 @@
-# 🚀 Luthando Candlovu | AI Security Developer & Researcher
+# 🚀 Luthando Candlovu | AI Security Developer & Researcher 
 
 <div align="center">
 
@@ -127,6 +127,15 @@ I'm a passionate **Computer Science Honours Student** at the **University of For
 
 </div>
 
+## 🎯 Currently Working On
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🔬_APT_Detection-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐_Blockchain_Security-32CD32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_Autonomous_Systems-FF4500?style=for-the-badge" />
+
+</div>
 
 ## 📫 Let's Connect!
 
@@ -153,4 +162,4 @@ I'm a passionate **Computer Science Honours Student** at the **University of For
 
 *⭐ Star this repo if you find my work interesting!*
 
-</div>
+</div>"
