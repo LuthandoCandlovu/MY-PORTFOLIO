@@ -193,7 +193,7 @@ flowchart TB
 
 <div align="center">
 
-## `[ 003 ]` — 🔐 Threat Intelligence Lifecycle
+## `[ 003 ]` — Threat Intelligence Lifecycle
 
 <br/>
 
@@ -587,7 +587,7 @@ mindmap
 
 <img src="https://img.shields.io/badge/PROJECT-02-a855f7?style=for-the-badge&labelColor=020010" />
 
-### 🔐 BiometricShield
+###  BiometricShield
 **Behavioural Auth Framework**
 
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="100%" style="border-radius:10px" />
@@ -644,7 +644,7 @@ mindmap
 
 <div align="center">
 
-## `[ 011 ]` — ⚡ Research Terminal
+## `[ 011 ]` —  Research Terminal
 
 <br/>
 
@@ -738,7 +738,7 @@ mindmap
 
 <div align="center">
 
-## `[ 014 ]` — 🔭 On The Horizon
+## `[ 014 ]` —  On The Horizon
 
 <br/>
 
